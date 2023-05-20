@@ -9,7 +9,7 @@ import CartWidget from '../CartWidget/CartWidget';
 const NavBar = () => {
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="ligth" variant="ligth">
+            <Navbar collapseOnSelect expand="lg" bg="light">
                 <Container>
                     <Navbar.Brand href="#home">Fragancias de Nicho</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
