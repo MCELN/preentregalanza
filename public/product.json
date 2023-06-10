@@ -1,0 +1,242 @@
+[
+    {
+        "id": "01",
+        "brand": "Creed",
+        "product": "Aventus for Her",
+        "image": "./img/creed/muestra/aventusForHer.png",
+        "description": "A partir de notas de salida de tersa manzana verde, fragante pimienta rosa e intensa bergamota, el carácter cítrico y afrutado de esta fragancia florece en su corazón floral de rosa, lila e ylang-ylang. Al secar, este perfume opulento y sensual revela su base de madera de sándalo, pachulí, almizcle y ámbar gris, que amplifica el suntuoso encanto de esta lujosa mezcla.",
+        "category": "female",
+        "price": 231190,
+        "stock": 15
+    },
+    {
+        "id": "02",
+        "brand": "Creed",
+        "product": "Aventus",
+        "image": "./img/creed/muestra/aventus.png",
+        "description": "Sensual, atrevida y contemporánea, esta icónica y rica eau de parfum combina unas tentadoras notas de salida de limón, pimienta rosa y bergamota italiana con un corazón fresco y floral de jugosa piña, dulce jazmín y pachulí de Indonesia. Las notas amaderadas de fondo, como el musgo de roble, la madera de cedro y el ámbar gris, ingrediente distintivo de House of Creed, redondean esta fragancia elegante y atrevida, y crean la experiencia olfativa definitiva.",
+        "category": "male",
+        "price": 256140,
+        "stock": 11
+    },
+    {
+        "id": "03",
+        "brand": "Creed",
+        "product": "Erolfa",
+        "image": "./img/creed/muestra/erolfa.png",
+        "description": "Fresca, nítida y versátil, esta fragancia se puede llevar desde la mañana hasta la noche. La bergamota, la mandarina y la albahaca intrigan los sentidos mientras las maderas de sándalo y cedro y el almizcle conforman las notas de fondo de esta fresca fragancia floral. Vigorizante y reconfortante en partes iguales, este perfume es apropiado para cualquier estación.",
+        "category": "unisex",
+        "price": 208530,
+        "stock": 16
+    },
+    {
+        "id": "04",
+        "brand": "Creed",
+        "product": "Green Irish Tweed",
+        "image": "./img/creed/muestra/greenIrishTweed.png",
+        "description": "Las notas de salida de limón y verbena se refrescan a la perfección con un soplo de fresca menta piperita. Las capas de geranio se contraponen a la fresca lavanda conformando la clásica estructura de los aromas fougère, mientras que la fragancia profunda e intensa de la madera de cedro salpica notas de intenso musgo de roble, con lo que se crea un aroma único, duradero y arbóreo.",
+        "category": "male",
+        "price": 208530,
+        "stock": 9
+    },
+    {
+        "id": "05",
+        "brand": "Creed",
+        "product": "Himalaya",
+        "image": "./img/creed/muestra/himalaya.png",
+        "description": "Las notas cítricas de salida de bergamota, limón y mandarina se complementan con cálidas notas de madera de sándalo, nuez moscada y madera de cedro. En el corazón de esta fragancia masculina se revelan notas de pólvora, junípero y nuez moscada. Al secarse, la esencia de pura seducción de madera de sándalo, vetiver y madera de cedro firma de forma irresistible esta emblemática fragancia.",
+        "category": "male",
+        "price": 208530,
+        "stock": 5
+    },
+    {
+        "id": "06",
+        "brand": "Creed",
+        "product": "Millesime Imperial",
+        "image": "./img/creed/muestra/millesimeImperial.png",
+        "description": "Con notas de salida de bergamota y grosella negra, las jugosas frutas se mezclan delicadamente con los matices salados del corazón al tiempo que la calidez y la sequedad de la madera de sándalo capturan las lujosas notas de fondo de esta fragancia. Llévela después del anochecer y deje que florezca la opulencia de su aroma.",
+        "category": "male",
+        "price": 208530,
+        "stock": 19
+    },
+    {
+        "id": "07",
+        "brand": "Creed",
+        "product": "Neroli Sauvage",
+        "image": "./img/creed/muestra/neroliSauvage.png",
+        "description": "Las notas cítricas de bergamota, naranja dulce, pomelo y limón bailan en torno al clásico aroma del neroli. Las notas florales de petit grain bigaradier se despliegan para obtener una tenaz base de vetiver y madera de cedro que deja un emblemático y duradero aroma.",
+        "category": "unisex",
+        "price": 208530,
+        "stock": 12
+    },
+    {
+        "id": "08",
+        "brand": "Creed",
+        "product": "Original Santal",
+        "image": "./img/creed/muestra/originalSantal.png",
+        "description": "Aromática, con afrutadas notas de salida de junípero y bergamota, en torno a sus notas de corazón se entrelaza una excepcional combinación de madera de sándalo y flor de azahar. Esta fragancia aromática y sensual es realza por una base cremosa de haba tonka y musgo de roble que la convierte en un complejo perfume vespertino.",
+        "category": "male",
+        "price": 95300,
+        "stock": 24
+    },
+    {
+        "id": "09",
+        "brand": "Montale París",
+        "product": "Oud Dream",
+        "image": "./img/montaleParis/muestra/oud-dream.jpg",
+        "description": "Una fragancia maravillosamente exótica, especiada y melosa. Suavemente dulce y ligeramente almizclada, Oud Dream es una fragancia sensual y cautivadora.\nLa Rosa, el Oud y las hojas de Pachulí envuelven, como en un sueño, esta nueva creación refinada de estela coriácea.",
+        "category": "unisex",
+        "price": 84700,
+        "stock": 35
+    },
+    {
+        "id": "10",
+        "brand": "Montale París",
+        "product": "Oudmazing",
+        "image": "./img/montaleParis/muestra/oudmazing.jpg",
+        "description": "Un increíble Aoud de Malasia, audazmente mezclado con naranja y bergamota, endulzado con deliciosas peras e higos, revela una sensual combinación de iris, jazmín y pachulí, y calienta la piel con ricas notas de cuero, vainilla, uva rosa y almizcle blanco.",
+        "category": "female",
+        "price": 72500,
+        "stock": 28
+    },
+    {
+        "id": "11",
+        "brand": "Montale París",
+        "product": "Aoud Forest",
+        "image": "./img/montaleParis/muestra/aoudForest.jpg",
+        "description": "Este Aoud inventa un bosque con notas marinas, sobre una base de almizcle blanco y ámbar gris, que se balancea entre la frescura del limón, la toronja, el romero y la riqueza de la rosa y el jengibre.",
+        "category": "unisex",
+        "price": 81100,
+        "stock": 23
+    },
+    {
+        "id": "12",
+        "brand": "Montale París",
+        "product": "Aqua Palma",
+        "image": "./img/montaleParis/muestra/aquaPalma.jpg",
+        "description": "In the middle of the Ubari sandy sea, in the mid-summer, when the Eastern sun is at its zenith, Aqua Palma, depicts a mirage of the senses.\nThe sweet freshness of Citrus and Peach and the enveloping notes of Tuberose, Iris and Tonka Bean exalt each other, carried by the warm breath of Ambergris and Sandalwood.\nAn olfactory creation inspired by a luxurious oasis. A hidden treasure in the heart of the immensity.",
+        "category": "unisex",
+        "price": 91400,
+        "stock": 32
+    },
+    {
+        "id": "13",
+        "brand": "Montale París",
+        "product": "Arabians Tonka",
+        "image": "./img/montaleParis/muestra/arabiansTonka.jpg",
+        "description": "Arabians Tonka, destinada a los amantes de los perfumes raros, es la cómplice de Arabians, una fragancia homenaje al Caballo Árabe. Una fina mezcla de volutas especiadas, rosas hechizantes, haba tonka y bergamota revelan un temperamento animal de oud, ámbar y almizcle. Una fragancia audaz, picante y ardiente, con un aspecto casi femenino.",
+        "category": "female",
+        "price": 65800,
+        "stock": 22
+    },
+    {
+        "id": "14",
+        "brand": "Montale París",
+        "product": "Bakhoor",
+        "image": "./img/montaleParis/muestra/bakhoor.jpg",
+        "description": "Embrujado por un ancestral ritual perfumado que nos llega de las tribus árabes nómadas del Medio Oriente, Pierre Montale ha creado BAKHOOR (pronunciado BAROUR), una creación cruda y salvaje, inspirada en el incienso tradicional, quemado para liberar los aromas de la resina, sándalo, madera perfumada y aceites naturales.\nUna voluta de humo que se eleva hacia el cielo, una invitación a descubrir los aromas místicos de Oriente, tanto intrigantes como fascinantes.",
+        "category": "unisex",
+        "price": 72900,
+        "stock": 18
+    },
+    {
+        "id": "15",
+        "brand": "Montale París",
+        "product": "Candy Rose",
+        "image": "./img/montaleParis/muestra/candy-rose.jpg",
+        "description": "La codicia de los Frutos Rojos, el Lichi y la deliciosa Naranja Sanguina, iluminan un inocente bouquet de Rosas y Lirios del Valle, y ofrece una estela sutil de Almizcle Blanco y Vainilla.",
+        "category": "female",
+        "price": 83000,
+        "stock": 0
+    },
+    {
+        "id": "16",
+        "brand": "Montale París",
+        "product": "Musk to Musk",
+        "image": "./img/montaleParis/muestra/musk-to-musk-argent.jpg",
+        "description": "Una búsqueda de años permitió la creación de este almizcle elegante y atractivo.\nUn magnífico y misterioso ungüento aromatizado con maderas preciosas, ámbar gris y nuez moscada.",
+        "category": "female",
+        "price": 69300,
+        "stock": 37
+    },
+    {
+        "id": "17",
+        "brand": "Parfums de Marly",
+        "product": "Byerley",
+        "image": "./img/parfumsDeMarly/muestra/byerley.png",
+        "description": "Byerley de Parfums de Marly es un olfativo amaderado. La narrativa de las notas muestra una firma rica, elegante y duradera. En la parte superior, se encuentran bergamota y cardamomo y se encuentran con un corazón de madera de cedro terroso y madera de gaiac, ahumado y de carácter intenso. Para concluir, esta eau de parfum masculina tiene una base de ámbar y vetiver, que desarrollan un rico aroma memorable y con corazón.",
+        "category": "male",
+        "price": 185500,
+        "stock": 8
+    },
+    {
+        "id": "18",
+        "brand": "Parfums de Marly",
+        "product": "Carlisle",
+        "image": "./img/parfumsDeMarly/muestra/carlisle.png",
+        "description": "Una ola de frescura baña la piel - Carlisle es la personificación de la luz. Soleada y radiante, esta fragancia sensual se basa en un tema de sándalo que es cálido, con un toque de vainilla, a la vez que relajante y rico. Las notas altas claras y seductoras de manzana verde crujiente, nuez moscada cálida y azafrán dorado desentierran el aroma de un elegante corazón de rosa, haba tonka, osmanthus y davana. La narrativa del perfume concluye con una base de vainilla, pachulí y resinoide opopónaco, un olfativo para conocedores de fragancias y amantes de las fragancias de nicho.",
+        "category": "unisex",
+        "price": 209330,
+        "stock": 1
+    },
+    {
+        "id": "19",
+        "brand": "Parfums de Marly",
+        "product": "Darley",
+        "image": "./img/parfumsDeMarly/muestra/darley.png",
+        "description": "Un eau de parfum que es a la vez complejo y elegante, Darley se abre a un trío tónico de limón, bergamota y menta. Suavizado y redondeado por un corazón de rosa, azahar, lavanda, romero y canela, la fragancia encuentra nuevas profundidades con su rica base de sándalo, madera de gaiac, pachulí, ámbar y tonka. Es la mezcla perfecta de notas frescas, aromáticas y preciosas en una botella de oro.",
+        "category": "male",
+        "price": 169580,
+        "stock": 3
+    },
+    {
+        "id": "20",
+        "brand": "Parfums de Marly",
+        "product": "Layton Exclusif",
+        "image": "./img/parfumsDeMarly/muestra/laytonExclusif.png",
+        "description": "Generoso, enérgico y explosivo, este Parfum afirma su fuerza e impetuosidad. La sorprendente nueva versión de Layton es una fragancia profunda, rica y amaderada para el conocedor que busca causar una buena impresión. Las notas de cabeza de bergamota, pomelo y manzana envuelven suavemente el corazón de canela, lavanda, madera de agar y geranio. La base concluye con madera de gaiac, vainilla sensual y cipriol dulce. Un renacimiento de lo tradicional pero refinado en su aroma.",
+        "category": "unisex",
+        "price": 209330,
+        "stock": 2
+    },
+    {
+        "id": "21",
+        "brand": "Parfums de Marly",
+        "product": "Godolphhin",
+        "image": "./img/parfumsDeMarly/muestra/godolphin.png",
+        "description": "Godolphin seduce con notable refinamiento. Esta distinguida fragancia se compone de aromas complejos y profundos que se mezclan ingeniosamente para crear una experiencia sofisticada y masculina. Abriéndose con notas frescas de tomillo, azafrán especiado y ciprés, la fragancia está anclada en rosa, iris y jazmín. La narración concluye con notas embriagadoras de madera de cedro blanco, cuero de vetiver, almizcle, ámbar y vainilla.",
+        "category": "male",
+        "price": 174880,
+        "stock": 6
+    },
+    {
+        "id": "22",
+        "brand": "Parfums de Marly",
+        "product": "Greenley",
+        "image": "./img/parfumsDeMarly/muestra/greenley.png",
+        "description": "Greenley está alojado en una botella verde escultural y modelado según su composición, reflejando energía pura y el aliento fresco de la primavera. Esta firma olfativa se basa en la naturaleza para crear un alegre torbellino de frutas, cítricos, corteza y savia que desemboca en una sorpresa de manzana verde crujiente y ácida. Con una atrevida yuxtaposición de los mejores materiales de la naturaleza, es una fragancia rica y masculina diseñada para resistir el paso del tiempo.",
+        "category": "male",
+        "price": 166940,
+        "stock": 4
+    },
+    {
+        "id": "23",
+        "brand": "Parfums de Marly",
+        "product": "Athalia",
+        "image": "./img/parfumsDeMarly/muestra/athalia.png",
+        "description": "Athalia cuenta con una firma olfativa muy floral, amaderada y almizclada. Las notas de cabeza de naranja amarga e incienso conducen al usuario al corazón de este eau de parfum femenino, que combina el iris empolvado y la delicada flor de naranjo envueltos en ámbar misterioso y acariciados por almizcle blanco. Es una fragancia intrigante con una delicada opulencia.",
+        "category": "female",
+        "price": 177780,
+        "stock": 7
+    },
+    {
+        "id": "24",
+        "brand": "Parfums de Marly",
+        "product": "Cassili",
+        "image": "./img/parfumsDeMarly/muestra/cassili.png",
+        "description": "Alegre, chispeante y espontáneo. Esta irresistible y deliciosa fragancia es una mezcla de frutas aterciopeladas y flores pastel, con un toque de vainilla y madera. Cassili es una fragancia verdaderamente original con una estela radiante diseñada como un manifiesto para las nuevas generaciones de estetas. La notoria nota de ciruela da forma y refina el eau de parfum, es anticonformista, indulgente y vivaz a la vez que sutil, elegante y clásico.",
+        "category": "female",
+        "price": 177540,
+        "stock": 10
+    }
+]

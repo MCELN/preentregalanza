@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -11,22 +12,17 @@ const NavBar = () => {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="light">
                 <Container>
-                    <Navbar.Brand href="#home">Fragancias de Nicho</Navbar.Brand>
+                    <Navbar.Brand><Link className="text-dark text-decoration-none" to='/'>Fragancias de Nicho</Link></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="#historias">Historias</Nav.Link>
-                            <NavDropdown title="Productos" id="collasible-nav-dropdown">
-                                <NavDropdown.Item href="#todos">Todas las Fragancias</NavDropdown.Item>
-                                <NavDropdown.Item href="#Femeninas">
-                                    Femeninas
+                            <Nav.Link><Link className="text-dark text-decoration-none" to="/">Home</Link></Nav.Link>
+                            <NavDropdown title="Categorías" id="collasible-nav-dropdown">
+                                <NavDropdown.Item><Link className="text-dark text-decoration-none" to='/category/male'>Masculina</Link>
                                 </NavDropdown.Item>
-                                <NavDropdown.Item href="#Masculinas">Masculinas</NavDropdown.Item>
-                                <NavDropdown.Item href="#unisex">
-                                    Unisex
-                                </NavDropdown.Item>
+                                <NavDropdown.Item><Link className="text-dark text-decoration-none" to='/category/female'>Femenina</Link></NavDropdown.Item>
+                                <NavDropdown.Item><Link className="text-dark text-decoration-none" to='/category/unisex'>Unisex</Link></NavDropdown.Item>
                             </NavDropdown>
-                            <Nav.Link href="#productos">Nosotros</Nav.Link>
                         </Nav>
                         <Nav>
                             <CartWidget />

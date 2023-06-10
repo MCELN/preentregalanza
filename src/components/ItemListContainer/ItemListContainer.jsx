@@ -1,11 +1,21 @@
 import React from 'react'
+import style from './itemListContainer.module.css';
+import ProductCard from '../ProductCard/ProductCard';
 
-const ItemListContainer = ({greeting}) => {
+const ItemListContainer = ({productsData}) => {
+
+    console.log(productsData);
     return (
-        <div style = {{fontSize: "2.5rem", margin: "0 auto", marginTop: "7rem", padding: "2rem", border: "solid 2px gold", width: "80%"}}>
-            {greeting}
+        <div className={style.conteiner}>
+            {productsData.map(product => {
+                return (
+                    <div className={style.item}>
+                        <ProductCard key={product.id} productsData={product} />
+                    </div>
+                )
+            })}
         </div>
-    )
+    );
 }
 
 export default ItemListContainer
